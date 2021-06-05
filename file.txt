@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-This is an indispensable truth!
-=======
-This is a relevant fact
->>>>>>> merge-conflict-branch1
+Initial content of the file
